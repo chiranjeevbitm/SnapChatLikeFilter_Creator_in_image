@@ -9,10 +9,10 @@
 
 ##  image_to_csv.py
 
-   Overview:
-   1.It takes input as the output image of FilterCreator.py
-   2.used PIL and numpy library
-   3.output is saved int csv file
+	   Overview:
+	   1.It takes input as the output image of FilterCreator.py
+	   2.used PIL and numpy library
+	   3.output is saved int csv file
 
 
 ##  Requirements
